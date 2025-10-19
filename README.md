@@ -127,3 +127,45 @@ Căn chỉnh:
 3. [Test case](./templates/03-test-case.md)
 4. [Bug report](./templates/04-bug-report.md)
 5. [Các kiến thức được học](./templates/05-lesson-learned.md)
+
+## Cộng đồng Better Bytes Academy
+
+Better Bytes Academy xây dựng và phát triển các cộng đồng chất lượng cho QA/Tester:
+
+### 🎭 Playwright Việt Nam
+
+**Playwright Việt Nam** là cộng đồng lớn nhất về Playwright tại Việt Nam, nơi kết nối các QA Engineer, Test Automation Engineer và những người yêu thích automation testing.
+
+**Tham gia cộng đồng:**
+- Facebook Group: https://www.facebook.com/groups/playwright.automation.test
+- Telegram: https://go.betterbytesvn.com/Automation-Testing-Forum
+- Website: https://academy.betterbytesvn.com/
+
+**Hoạt động của cộng đồng:**
+- Chia sẻ kiến thức, kinh nghiệm về Playwright
+- Tổ chức các workshop, webinar
+- Hỗ trợ giải đáp thắc mắc
+- Tổ chức các contest và thử thách
+
+## Liên hệ
+
+Nếu có bất cứ vấn đề gì liên quan đến nội dung hoặc bản quyền, vui lòng liên hệ trực tiếp tới **Better Bytes Academy** để được hỗ trợ và xử lý.
+
+- **Email:** [betterbytes.academy@gmail.com](mailto:betterbytes.academy@gmail.com) 
+- **Facebook:** [Fanpage Playwright Việt Nam](https://www.facebook.com/playwrightvietnam/)
+- **Website:** https://academy.betterbytesvn.com/
+
+<details>
+<summary><strong>📮 Donate cho chúng mình</strong></summary>
+
+#### Thông tin chuyển khoản
+
+- **Ngân hàng:** Vietcombank  
+- **Số tài khoản:** 9962275964  
+- **Chủ tài khoản:** DO MINH PHONG
+- **QR code**:
+![QR donate](https://academy.betterbytesvn.com/wp-content/uploads/2025/09/image.png)
+
+**Xin chân thành cảm ơn!** ❤️
+
+</details>
